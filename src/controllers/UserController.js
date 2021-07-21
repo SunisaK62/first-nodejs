@@ -1,6 +1,6 @@
 module.exports = {
     index(req,res){
-        res.send('เรียกข้อมูลผู้ใช้งานทั้งหมด');
+        res.send(number^number);
     },
     show(req,res){
         res.send('ดูข้อมูลผู้ใช้งาน' + req.params.userId);
